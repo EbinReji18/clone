@@ -1,0 +1,31 @@
+
+nav{
+    height: 100px;
+}
+
+.navbar-brand{
+    font-weight: 800;
+}
+
+
+
+.fruit-mix{
+   
+}
+
+.nav-link{
+
+}
+
+.nav-link:hover{
+    color: greenyellow;
+}
+
+.banner-1{
+    background: url(./banner-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
